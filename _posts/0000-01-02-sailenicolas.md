@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The file has been created. 
+
 Use the left arrow to go back!
